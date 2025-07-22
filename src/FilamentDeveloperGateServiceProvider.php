@@ -11,7 +11,7 @@ class FilamentDeveloperGateServiceProvider extends ServiceProvider
     {
         //Register generate command
         $this->commands([
-           \Afsdarif\FilamentDeveloperGate\Console\FilamentDeveloperGateInstall::class,
+           \TomatoPHP\FilamentDeveloperGate\Console\FilamentDeveloperGateInstall::class,
         ]);
 
         //Register Config file

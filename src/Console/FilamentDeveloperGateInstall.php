@@ -3,7 +3,7 @@
 namespace Afsdarif\FilamentDeveloperGate\Console;
 
 use Illuminate\Console\Command;
-use Afsdarif\ConsoleHelpers\Traits\RunCommand;
+use TomatoPHP\ConsoleHelpers\Traits\RunCommand;
 
 class FilamentDeveloperGateInstall extends Command
 {
