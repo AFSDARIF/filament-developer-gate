@@ -1,6 +1,6 @@
 <?php
 
-namespace TomatoPHP\FilamentDeveloperGate\Http\Controllers;
+namespace Afsdarif\FilamentDeveloperGate\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use Filament\Notifications\Notification;

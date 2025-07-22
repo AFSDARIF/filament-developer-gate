@@ -1,10 +1,10 @@
 <?php
 
-namespace TomatoPHP\FilamentDeveloperGate\Pages;
+namespace Afsdarif\FilamentDeveloperGate\Pages;
 
 use Filament\Pages\Page;
 use Filament\Panel;
-use TomatoPHP\FilamentDeveloperGate\Http\Middleware\DeveloperGatePageMiddleware;
+use Afsdarif\FilamentDeveloperGate\Http\Middleware\DeveloperGatePageMiddleware;
 
 class DeveloperGate extends Page
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace TomatoPHP\FilamentDeveloperGate\Http\Middleware;
+namespace Afsdarif\FilamentDeveloperGate\Http\Middleware;
 
 use Closure;
 use Filament\Facades\Filament;

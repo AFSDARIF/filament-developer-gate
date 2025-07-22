@@ -1,9 +1,9 @@
 <?php
 
-namespace TomatoPHP\FilamentDeveloperGate\Traits;
+namespace Afsdarif\FilamentDeveloperGate\Traits;
 
 use Filament\Panel;
-use TomatoPHP\FilamentDeveloperGate\Http\Middleware\DeveloperGateMiddleware;
+use Afsdarif\FilamentDeveloperGate\Http\Middleware\DeveloperGateMiddleware;
 
 trait InteractWithDeveloperGate
 {

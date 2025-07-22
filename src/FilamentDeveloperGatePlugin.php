@@ -1,11 +1,11 @@
 <?php
 
-namespace TomatoPHP\FilamentDeveloperGate;
+namespace Afsdarif\FilamentDeveloperGate;
 
 use Filament\Contracts\Plugin;
 use Filament\Panel;
 use Illuminate\View\View;
-use TomatoPHP\FilamentDeveloperGate\Pages\DeveloperGate;
+use Afsdarif\FilamentDeveloperGate\Pages\DeveloperGate;
 
 class FilamentDeveloperGatePlugin implements Plugin
 {

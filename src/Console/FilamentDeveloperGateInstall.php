@@ -1,9 +1,9 @@
 <?php
 
-namespace TomatoPHP\FilamentDeveloperGate\Console;
+namespace Afsdarif\FilamentDeveloperGate\Console;
 
 use Illuminate\Console\Command;
-use TomatoPHP\ConsoleHelpers\Traits\RunCommand;
+use Afsdarif\ConsoleHelpers\Traits\RunCommand;
 
 class FilamentDeveloperGateInstall extends Command
 {

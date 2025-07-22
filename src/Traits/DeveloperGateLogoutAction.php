@@ -1,6 +1,6 @@
 <?php
 
-namespace TomatoPHP\FilamentDeveloperGate\Traits;
+namespace Afsdarif\FilamentDeveloperGate\Traits;
 
 use Filament\Actions\Action;
 use Filament\Notifications\Notification;
